@@ -1,0 +1,23 @@
+{
+  "name": "user-interface-dev",
+  "version": "1.0.0",
+  "description": "Development directory for testing user interface designs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaobe/user-interface-dev.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhaobe/user-interface-dev/issues"
+  },
+  "homepage": "https://github.com/zhaobe/user-interface-dev#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.2.1"
+  }
+}
