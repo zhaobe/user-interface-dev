@@ -1,0 +1,39 @@
+body,
+html {
+    height: 100%;
+    margin: 0;
+    font: 400 15px/1.8 "Open Sans", sans-serif;
+}
+.bgImg {
+    position: relative;
+    opacity: 0.5;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.bgImg-1 {
+    background-image: url(../img/dawn-mountain.jpg);
+    min-height: 100%;
+}
+.caption {
+    position: absolute;
+    left: 0;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #000;
+}
+.caption span.border {
+    background-color: #111;
+    color: #fff;
+    padding: 18px;
+    font-size: 50px;
+    letter-spacing: 5px;
+}
+.textSection {
+    padding: 5%;
+}
+.textSection h2 {
+    text-align: center;
+}
